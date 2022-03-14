@@ -1,5 +1,5 @@
 
-# GeoMetric Deep Learning
+# Geometric Deep Learning
 ![image](https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png)
 
 
