@@ -3,10 +3,10 @@
 )
 
 
-NeurIPS-[2021](https://github.com/Chris33Hou/equivariance/tree/main/NeurIPS/2021%20Equivariance)
+NeurIPS-[2021](https://github.com/Chris33Hou/equivariance/tree/main/Invariance%20and%20Equivariance/NIPS/2021)
 
 
-ICLR-[2022](https://github.com/Chris33Hou/equivariance/tree/main/ICLR/2022%20Equivariance)
+ICLR-[2022](https://github.com/Chris33Hou/equivariance/tree/main/Invariance%20and%20Equivariance/ICLR/2022)
 
 
 
