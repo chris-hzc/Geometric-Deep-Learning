@@ -28,9 +28,9 @@
 
 [SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks](https://papers.nips.cc/paper/2020/hash/15231a7ce4ba789d13b722cc5c955834-Abstract.html )
 
-[Equivariant Networks for Hierarchical Structures] (https://papers.nips.cc/paper/2020/hash/9efb1a59d7b58e69996cf0e32cb71098-Abstract.html) 
+[Equivariant Networks for Hierarchical Structures](https://papers.nips.cc/paper/2020/hash/9efb1a59d7b58e69996cf0e32cb71098-Abstract.html) 
 
-[Building powerful and equivariant graph neural networks with structural message-passing] (https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html )
+[Building powerful and equivariant graph neural networks with structural message-passing](https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html )
 
 [A Group-Theoretic Framework for Data Augmentation](https://papers.nips.cc/paper/2020/hash/f4573fc71c731d5c362f0d7860945b88-Abstract.html )
 
