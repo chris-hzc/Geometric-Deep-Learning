@@ -1,7 +1,7 @@
 
 # Geometric Deep Learning
-![image](https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png)
 
+<img alt="https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png" src="https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png" width="350" height="300">
 
 
 
