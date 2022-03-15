@@ -11,4 +11,8 @@ GNN|Graph|Permutation
 Transformer|Complete Graph|Permutation
 LSTM|1D Grid|Time warping
 
+## General Learning on Graphs
+
+![image](https://github.com/Chris33Hou/Geometric-Deep-Learning/blob/main/GDL-course/learning_on_graphs.png)
+
 
