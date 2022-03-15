@@ -1,5 +1,6 @@
 [Geometric Deep Learning Course link](https://geometricdeeplearning.com/lectures/)
 
+## Popular architextures as instances of GDL blueprint
 Architecture|Domain |Symmetry Group
 ----|----|----
 CNN|Grid|Tranlation
