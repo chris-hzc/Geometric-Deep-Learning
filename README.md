@@ -3,7 +3,7 @@
 
 <img alt="https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png" src="https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png" width="350" height="300">
 
-
+[Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/)
 
 ## Invariance and Equivariance
 [A very nice collection of papers](https://github.com/Chen-Cai-OSU/awesome-equivariant-network
