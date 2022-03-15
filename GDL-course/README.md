@@ -11,8 +11,4 @@ Intrinsic / Mesh CNN|Manifold|Isometry Iso(Omega) / Gauge Symmetry SO(2)
 Transformer|Complete Graph|Permutation
 LSTM|1D Grid|Time warping
 
-## General Learning on Graphs
-
-![image](https://github.com/Chris33Hou/Geometric-Deep-Learning/blob/main/GDL-course/learning_on_graphs.png)
-
 
