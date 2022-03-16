@@ -3,7 +3,7 @@
 
 <img alt="https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png" src="https://github.com/Chris33Hou/equivariance/blob/main/GeoDL.png" width="350" height="300">
 
-* [Geometric Deep Learning Course](https://github.com/Chris33Hou/Geometric-Deep-Learning/tree/main/GDL)
+* [Geometric Deep Learning Course](https://github.com/Chris33Hou/Geometric-Deep-Learning/tree/main/GDL-course)
 * [High-Solution ElectronDensity](https://github.com/Chris33Hou/Geometric-Deep-Learning/tree/main/High-Solution_Electron_Density)
 
 ## Invariance and Equivariance
