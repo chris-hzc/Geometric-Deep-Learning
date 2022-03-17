@@ -1,7 +1,7 @@
-## General Bluprint for Learning on Graphs
+## General Bluprint for Learning on Graphs [Lecture 5](https://www.youtube.com/watch?v=E_Wweuk5iqA)
 ![image](https://github.com/Chris33Hou/Geometric-Deep-Learning/blob/main/GDL-course/GNN/learning-on-graph.png)
 
-## The Three "Flavours" of GNN Layers
+## The Three "Flavours" of GNN Layers [Lecture 5](https://www.youtube.com/watch?v=E_Wweuk5iqA)
 ![image](https://github.com/Chris33Hou/Geometric-Deep-Learning/blob/main/GDL-course/GNN/three-flavour.png)
 
 * Convolutional GNN:
@@ -20,7 +20,7 @@
   * GraphNets(Battaglia et al., 2018)
 
 
-## Latent Graph Inference
+## Latent Graph Inference [Lecture 6](https://www.youtube.com/watch?v=i79ewWQiUX4)
 * Option 1: Assume no edges [Deep Sets](https://arxiv.org/abs/1703.06114)
 * Option 2: Assume all edges [Transformers are Graph Neural Networks (Joshi ,The Gradient; 2020)](https://thegradient.pub/transformers-are-graph-neural-networks/)
 * Option 3: Infer edges to use 
@@ -39,7 +39,7 @@
     [Pointer Graph Networks (Veličkovićet al., NeurIPS’20)](https://arxiv.org/abs/2006.06380)
     
     
-## Power of GNNs & Graph Isomorphism Test
+## Power of GNNs & Graph Isomorphism Test [Lecture 6](https://www.youtube.com/watch?v=i79ewWQiUX4)
 * Weisfeiler-Lehman Test (1-WL)
 * Fixing "failure cases" of 1-WL yields classes of higher-order GNNs
   * Modifying features: 
