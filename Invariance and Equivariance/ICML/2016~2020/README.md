@@ -1,9 +1,8 @@
 # 2016
-
-[Group Equivariant Convolutional Networks](https://arxiv.org/pdf/1602.07576.pdf)
-
-
-[Exploiting Cyclic Symmetry in Convolutional Neural Networks (ICML16)](http://proceedings.mlr.press/v48/dieleman16.pdf)
+Title|Link
+----|----
+[Group Equivariant Convolutional Networks](https://arxiv.org/pdf/1602.07576.pdf)|[note](https://www.zhihu.com/people/chris-2-23/posts)
+[Exploiting Cyclic Symmetry in Convolutional Neural Networks (ICML16)](http://proceedings.mlr.press/v48/dieleman16.pdf)| 
 
 # 2017
 
