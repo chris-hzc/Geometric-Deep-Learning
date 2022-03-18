@@ -8,11 +8,11 @@
 [Unsupervised learning of object frames by dense equivariant image labelling](https://papers.nips.cc/paper/6686-unsupervised-learning-of-object-frames-by-dense-equivariant-image-labelling)
 
 # 2018
-[Group Equivariant Capsule Networks](https://papers.nips.cc/paper/8100-group-equivariant-capsule-networks) 
-
-[3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data](https://papers.nips.cc/paper/8239-3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data) 
-
-[Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction ](https://papers.nips.cc/paper/7951-mapping-images-to-scene-graphs-with-permutation-invariant-structured-prediction)
+Title|Link
+----|----
+[Group Equivariant Capsule Networks](https://papers.nips.cc/paper/8100-group-equivariant-capsule-networks)|[note](https://zhuanlan.zhihu.com/p/469588504)
+[3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data](https://papers.nips.cc/paper/8239-3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data)|  
+[Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction ](https://papers.nips.cc/paper/7951-mapping-images-to-scene-graphs-with-permutation-invariant-structured-prediction)| 
 
 # 2019 
 
