@@ -18,6 +18,8 @@
 
 [Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules](https://papers.nips.cc/paper/8974-symmetry-adapted-generation-of-3d-point-sets-for-the-targeted-discovery-of-molecules)
 
+
+
 [A Model to Search for Synthesizable Molecules](https://papers.nips.cc/paper/9007-a-model-to-search-for-synthesizable-molecules)
 
 [N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules ](https://papers.nips.cc/paper/9054-n-gram-graph-simple-unsupervised-representation-for-graphs-with-applications-to-molecules)
@@ -39,3 +41,8 @@
 [Guiding Deep Molecular Optimization with Genetic Exploration](https://papers.nips.cc/paper/2020/hash/8ba6c657b03fc7c8dd4dff8e45defcd2-Abstract.html)
 
 [Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://papers.nips.cc/paper/2020/hash/94aef38441efa3380a3bed3faf1f9d5d-Abstract.html)
+
+# 2021
+Title|Link
+----|----
+[A 3D Generative Model for Structure-Based Drug Design](https://openreview.net/forum?id=yDwfVD_odRo)|[note](https://zhuanlan.zhihu.com/p/466673772)
