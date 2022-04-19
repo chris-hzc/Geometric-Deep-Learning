@@ -51,7 +51,7 @@
      <td >Guo,BJTU,"539"</td>
      <td ><a href="https://scholar.google.com/scholar?q=Attention+based+spatialtemporal+graph+convolutional+networks+for+traffic+flow+forecasting&inst=1597255436240989024">ASTGCN</a> vs STGCN</td>
      <td >GCN+CNN+spatial&temporal attention</td>
-     <td >Traffic Flow Forecast (N→T) - PeMS</td>
+     <td >Traffic Flow Forecast (N→T) - PeMSD4/D8</td>
   </tr>
   
   <tr>
