@@ -63,11 +63,21 @@
      <td >Skeleton Action Recognition (Classification)-Kinetics&NTU-RGBD<a href="https://github.com/yysijie/st-gcn?git" > torch(924*)</a></td>
   </tr>
   <tr>
-     <td rowspan="3">Others </td>
+     <td rowspan="1">Others </td>
      <td >2017 ICLR</td>
      <td >Seo, EPFL, "342"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Structured+sequence+modeling+with+graph+convolutional+recurrent+networks&btnG=">GCRN</td>
      <td >LSTM+ChebNet</td>
      <td >Sequencing Modeling (J→K) -  moving MNIST/NLP </td>
   </tr>
+   <tr>
+     <td rowspan="1">Theory </td>
+     <td >2021</td>
+     <td >Hadou, UPenn, "1"</td>
+     <td ><a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&inst=1597255436240989024&q=SPACE-TIME+GRAPH+NEURAL+NETWORKS&btnG=">ST-GNN</a></td>
+     <td >Diffusion Equation</td>
+     <td > decentralized flocking &
+unlabeled motion planning</td>
+  </tr>
+  
 </table>
