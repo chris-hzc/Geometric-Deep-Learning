@@ -11,12 +11,12 @@
       <td >PS</td>
   </tr>
   <tr>
-     <td rowspan="5">Traffic </td>
+     <td rowspan="6">Traffic </td>
      <td >2018.2 ICLR</td>
      <td >Li, USC, "1225"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Diffusion+convolutional+recurrent+neural+network%3A+Data-driven+traffic+forecasting&btnG=">DCRNN(GCGRU)</a></td>
      <td >Diffusion Conv + GRU</td>
-     <td > Traffic Forecasting (T'→T) - Traffic Speed(LA&BAY)</td>
+     <td > Traffic Forecasting (T'→T) - Traffic Speed(LA&BAY)<a href="https://github.com/liyaguang/DCRNN"> - tf(802*)</a> <a href="https://github.com/chnsh/DCRNN_PyTorch">torch(232*)</a></td>
   </tr>
   <tr>
      <td >2018.3</td>
@@ -41,25 +41,26 @@
   </tr>
   <tr>
      <td >2019.3</td>
-     <td >Wu,"393"</td>
+     <td >Wu,UTC,"393"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Graph+wavenet+for+deep+spatial-temporal+graph+modeling&btnG=">Graph WaveNet</a> vs DCRNN&GGRU&STGCN</td>
      <td >GCN+TCN+self-adaptive adjacency</td>
      <td >Traffic Forecasting (S→T)-LA&BAY</td>
   </tr>
+   <tr>
+     <td >2019 AAAI</td>
+     <td >Guo,BJTU,"539"</td>
+     <td ><a href="https://scholar.google.com/scholar?q=Attention+based+spatialtemporal+graph+convolutional+networks+for+traffic+flow+forecasting&inst=1597255436240989024">ASTGCN</a> vs STGCN</td>
+     <td >GCN+CNN+spatial&temporal attention</td>
+     <td >Traffic Flow Forecast (N→T) - PeMS</td>
+  </tr>
+  
   <tr>
-     <td rowspan="2">Action Recog </td>
+     <td rowspan="1">Action Recog </td>
      <td >2018.1 AAAI</td>
      <td >Yan, CUHK,"1833"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Spatial+temporal+graph+convolutional+networks+for+skeleton-based+action+recognition&btnG=">ST-GCN</a></td>
      <td >GCN+1D-Conv</td>
      <td >Skeleton Action Recognition-Kinetics&NTU-RGBD<a href="https://github.com/yysijie/st-gcn?git" > torch(924*)</a></td>
-  </tr>
-   <tr>
-     <td >2019</td>
-     <td >Guo,"539"</td>
-     <td >ASTGCN</td>
-     <td >spatial&temporal attention</td>
-     <td ></td>
   </tr>
   <tr>
      <td rowspan="3">Others </td>
