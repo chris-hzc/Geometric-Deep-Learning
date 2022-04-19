@@ -55,13 +55,34 @@
   </tr>
   
   <tr>
-     <td rowspan="1">Action Recog </td>
+     <td rowspan="3">Action Recog </td>
      <td >2018.1 AAAI</td>
      <td >Yan, CUHK,"1833"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Spatial+temporal+graph+convolutional+networks+for+skeleton-based+action+recognition&btnG=">ST-GCN</a></td>
      <td >GCN+1D-Conv</td>
      <td >Skeleton Action Recognition (Classification)-Kinetics&NTU-RGBD<a href="https://github.com/yysijie/st-gcn?git" > torch(924*)</a></td>
   </tr>
+     <tr>
+     <td >2018 ECCV</td>
+     <td >Wang, CMU,"530"</td>
+     <td ><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html">I3D+Joint GCN</a> vs ST-GCN</td>
+     <td >Similarity GCN + ST-GCN</td>
+     <td >Skeleton Action Recognition -Charades&Something-Something</a></td>
+  </tr>
+  
+  <tr>
+     <td >2019 CVPR</td>
+     <td >Shi, CAS,"568"</td>
+     <td ><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html">2s-AGCN</a> vs ST-GCN</td>
+     <td >Adaptive GCN(2nd info) + CNN</td>
+     <td >Skeleton Action Recognition (Classification)-Kinetics&NTU-RGBD</a></td>
+  </tr>
+  
+
+  
+ 
+
+  
   <tr>
      <td rowspan="1">Others </td>
      <td >2017 ICLR</td>
@@ -70,6 +91,8 @@
      <td >LSTM+ChebNet</td>
      <td >Sequencing Modeling (J→K) -  moving MNIST/NLP </td>
   </tr>
+  
+  
    <tr>
      <td rowspan="1">Theory </td>
      <td >2021</td>
