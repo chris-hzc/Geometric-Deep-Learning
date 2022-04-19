@@ -30,7 +30,7 @@
      <td >Yu,PKU,"1251"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Spatio-temporal+graph+convolutional+networks%3A+A+deep+learning+framework+for+traffic+forecasting&btnG=">STGCN</a> vs DCRNN</td>
      <td > ChebNet/GCN+Gated 1D-Conv(GLU)</td>
-     <td >Traffic forecast (M→H)-BJ&PeMS- <a href="https://github.com/VeritasYin/STGCN_IJCAI-18" >tf(613*)</a> <a href="https://github.com/FelixOpolka/STGCN-PyTorch" >torch(212*)</a></td>
+     <td >Traffic forecast (M→H)-BJ&PeMSD7- <a href="https://github.com/VeritasYin/STGCN_IJCAI-18" >tf(613*)</a> <a href="https://github.com/FelixOpolka/STGCN-PyTorch" >torch(212*)</a></td>
   </tr>
   <tr>
      <td >2019 AAAI</td>
