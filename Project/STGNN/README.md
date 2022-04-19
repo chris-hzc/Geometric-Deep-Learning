@@ -60,7 +60,7 @@
      <td >Yan, CUHK,"1833"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Spatial+temporal+graph+convolutional+networks+for+skeleton-based+action+recognition&btnG=">ST-GCN</a></td>
      <td >GCN+1D-Conv</td>
-     <td >Skeleton Action Recognition-Kinetics&NTU-RGBD<a href="https://github.com/yysijie/st-gcn?git" > torch(924*)</a></td>
+     <td >Skeleton Action Recognition (Classification)-Kinetics&NTU-RGBD<a href="https://github.com/yysijie/st-gcn?git" > torch(924*)</a></td>
   </tr>
   <tr>
      <td rowspan="3">Others </td>
