@@ -26,7 +26,7 @@
      <td >Traffic Speed Forecaseting (J→K)- LA </td>
   </tr>
   <tr>
-     <td >2018.7</td>
+     <td >2018.7 IJCAI</td>
      <td >Yu,PKU,"1251"</td>
      <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Spatio-temporal+graph+convolutional+networks%3A+A+deep+learning+framework+for+traffic+forecasting&btnG=">STGCN</a> vs DCRNN</td>
      <td > ChebNet/GCN+Gated 1D-Conv(GLU)</td>
