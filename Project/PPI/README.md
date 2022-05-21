@@ -21,7 +21,7 @@
   <tr>
      <td >2019 Bio</td>
      <td >Sanchez-Garcia,Spanish, "50"</td>
-     <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=BIPSPI%3A+a+method+for+the+prediction+of+partner-specific+protein-protein+interfaces&btnG=">BIPSPI</a>   vs DCRNN</td>
+     <td ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=BIPSPI%3A+a+method+for+the+prediction+of+partner-specific+protein-protein+interfaces&btnG=">BIPSPI</a> </td>
      <td >Sep-Only</td>
      <td ><a href="https://github.com/bioinsilico/BIPSPI">code(7*)</a>-DIMS-DB5-DB3 </td>
   </tr>
