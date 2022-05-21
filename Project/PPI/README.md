@@ -2,6 +2,10 @@
   <tr>
       <td colspan="6"><p align="center">PPI</p></td>
   </tr>
+   <tr>
+      <td colspan="6"><p align="center"><a href="https://github.com/drorlab/atom3d">ATOM3D</a></p></td>
+  </tr>
+    
   <tr>
       <td >Type</td>
       <td >Year</td>
@@ -53,7 +57,8 @@
      <td >GNN+Transformer</td>
      <td ><a href="https://github.com/BioinfoMachineLearning/DeepInteract">torch(29*)</a>- DIPS</td>
   </tr>
-  
+ 
+
 
   
  
